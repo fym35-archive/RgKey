@@ -1,3 +1,3 @@
 # RgKey
-Garbage rpg style game made in unity
+Garbage 3D rpg game made in unity
 STILL IN DEVELOPMENT
